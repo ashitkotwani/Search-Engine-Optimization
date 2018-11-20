@@ -1,0 +1,2 @@
+# Search-Engine-Optimization
+Ran data analysis on product category performance in collaboration with SEO team. Using Rank Data, Business Data and Organic CTR created monthly reports to lay emphasis on focus areas and to improve performance for coming months.  Calculated near term ROI on basis of estimates for revenue and keyword ranks using the Pandas and Numpy libraries in Python. Using calculated ROI created a priority list for categories for improving their organic rankings in near future.
